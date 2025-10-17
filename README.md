@@ -6,7 +6,7 @@ This GitHub contains the scripts for data analysis done on the paper titled [Sub
 
 The following folders contain scripts for data analysis and figures.
 
-* [scripts](../master/scripts/) contains all scripts to reproduce the analyses and figures (main and supplements).
+* [scripts](../master/Scripts/) contains all scripts to reproduce the analyses and figures (main and supplements).
 
 * [data](../master/Supplemental%20Files/) contains the input files. Some of these inputs will be generated through the scripts and have been placed here for ease of access.
 
