@@ -2,8 +2,7 @@
 
 This GitHub contains the scripts for data analysis done on the paper titled [Sub-daily Bermuda Atlantic Time Series virus sampling reveals taxonomy, host, and functional differences at the population, but not community level](https://www.my_paper.com).
 
-## Scripts: 
-
+## Scripts
 The following folders contain scripts for data analysis and figures.
 
 * [Scripts](../master/Scripts/) contains all scripts to reproduce the analyses and figures (main and supplements).
