@@ -1,6 +1,6 @@
 # Sub-daily Bermuda Atlantic Time Series virus sampling reveals taxonomy, host, and functional differences at the population, but not community level
 
-This GitHub contains the scripts for data analysis done on the paper titled [Sub-daily Bermuda Atlantic Time Series virus sampling reveals taxonomy, host, and functional differences at the population, but not community level](https://www.my_paper.com).
+This GitHub contains the scripts for data analysis done on the paper titled [Sub-daily Bermuda Atlantic Time Series virus sampling reveals taxonomy, host, and functional differences at the population, but not community level](https://www.biorxiv.org/content/10.1101/2025.10.20.683370v1).
 
 ## Scripts
 The following folders contain scripts for data analysis and figures.
